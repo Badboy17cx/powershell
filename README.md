@@ -1,2 +1,2 @@
-# powershell
+# powershell & CMD Scripts
 Easy PowerShell Scripts
